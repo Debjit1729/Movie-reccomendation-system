@@ -25,5 +25,23 @@ Ensure you have the following installed:
 - Scikit-learn
 
 
+### Installation
+
+Install the required Python packages:
+
+```bash
+!pip install numpy
+!pip install pandas
+!pip install sklearn
+!pip install nltk
+```
+
+### Data
+
+The dataset used for this project is not included in the repository. Please ensure you have a suitable movie ratings dataset in CSV format and adjust the notebook accordingly.
+
+### Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 
